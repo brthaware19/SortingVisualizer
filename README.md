@@ -5,4 +5,4 @@ This project, sorting visualizer is a very simple UI and it allows the users to 
 ![](img/Screenshot%20(850).png)
 ![](img/Screenshot%20(851).png)
 ![](img/Screenshot%20(852).png)
-![](img/Screenshot%20(854).png)
+![](img/Screenshot%20(853).png)
