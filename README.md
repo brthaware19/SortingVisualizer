@@ -3,6 +3,22 @@ This is a website built using HTML, CSS, Javascript to visualize classic sorting
 This project, sorting visualizer is a very simple UI and it allows the users to select the sort algorithm, select the array size, and speed of the visualization.
 
 ![](img/Screenshot%20(850).png)
+
+
+
+
 ![](img/Screenshot%20(851).png)
+
+
+
+
+
+
 ![](img/Screenshot%20(852).png)
+
+
+
+
+
+
 ![](img/Screenshot%20(853).png)
